@@ -90,10 +90,10 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nome`, `email`, `data_nascimento`, `rua`, `numero`, `cidade`, `estado`) VALUES
-(1, 'Leandro Freitas', 'leandro@mail.com', '1987-06-17', 'Av Paulo Petribu', '700', 'Recife', 'PE'),
-(2, 'Lucia Soares', 'lucia@mail.com', '1992-07-03', 'Av Paulo Petribu', '700', 'Recife', 'PE'),
-(3, 'Enzo Miguel', 'enzo@mail.com', '2017-12-09', 'Av Paulo Petribu', '700', 'Recife', 'PE'),
-(4, 'Jose Antonio', 'joseafreitas@mail.com', '1957-06-22', 'Rua Clotilde Oliveira', '199', 'Recife', 'PE');
+(1, 'Leandro Freitas', 'leandro@mail.com', '1900-01-01', 'Av Paulo Petri', '100', 'Recife', 'PE'),
+(2, 'Lucia Soares', 'lucia@mail.com', '1900-02-02', 'Av Paulo Petri', '200', 'Recife', 'PE'),
+(3, 'Enzo Miguel', 'enzo@mail.com', '2000-03-03', 'Av Paulo Petri', '300', 'Recife', 'PE'),
+(4, 'Jose Antonio', 'joseafreitas@mail.com', '1800-06-06', 'Rua Clotilde', '400', 'Recife', 'PE');
 
 --
 -- Índices para tabelas despejadas
